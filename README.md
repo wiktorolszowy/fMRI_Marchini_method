@@ -32,10 +32,10 @@ Repository contents
 function from the AnalyzeFMRI package
 - `Marchini_overlay_plot.R`
 
-  input to this plot functions should be the output of the Marchini function
+  input to this plot function should be the output of the Marchini function
 - `Marchini_pgram_plot.R`
 
-  input to this plot functions should be the output of the Marchini function
+  input to this plot function should be the output of the Marchini function
 - `Marchini_vs_FSL_comparison.R`
 
   compares the modified Marchini method with FSL, produces plots and statistics
