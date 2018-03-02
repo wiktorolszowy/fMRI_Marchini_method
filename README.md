@@ -1,8 +1,10 @@
-
-Written by:  Wiktor Olszowy, University of Cambridge
-Contact:     wo222@cam.ac.uk
-Created:     March-June 2016
-
+| Written by: | Wiktor Olszowy, Department of Clinical Neurosciences, University of Cambridge     |
+| ----------- | --------------------------------------------------------------------------------- |
+| When:       | March 2016 - June 2016                                                            |
+| Purpose:    | Study "fMRI experiments: can frequency-domain methods perform better than         |
+|             | standard FSL routines?"                                                           |
+| Poster:     | [available here](https://www.researchgate.net/profile/Wiktor_Olszowy/publication/304489243_fMRI_experiments_can_frequency-domain_methods_perform_better_than_standard_FSL_routines/links/5770f95f08ae6219474a3035/fMRI-experiments-can-frequency-domain-methods-perform-better-than-standard-FSL-routines.pdf)                                                    |
+| Contact:    | wo222@cam.ac.uk                                                                   |
 
 In this small repository there are three functions implemented in R, to be used for a modification of the approach explained in
 "A new statistical approach to detecting significant activation in functional MRI" of J. Marchini and B. Ripley (2001).
